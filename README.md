@@ -1,4 +1,4 @@
 # EditTextMention
 Untuk membuat edittext mentionable 
 
-<img src="/ar-android/EditTextMention/blob/master/screen_shoot.png?raw=true" alt="screen_shoot.png">
+<img src="https://raw.githubusercontent.com/ar-android/EditTextMention/master/screen_shoot.png" alt="screen_shoot.png">
